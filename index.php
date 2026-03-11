@@ -195,6 +195,7 @@
       top: 5px;
       right: 5px;
       width: 260px;
+      
       height: 675px;
       overflow-y: hidden;
     }
